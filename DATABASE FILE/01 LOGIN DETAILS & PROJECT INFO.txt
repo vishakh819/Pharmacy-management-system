@@ -1,0 +1,10 @@
+**Database Name: simplepharmacy**
+
+
+**Login Details**
+
+Username: admin
+Password: 1234
+
+
+
