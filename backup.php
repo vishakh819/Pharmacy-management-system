@@ -1,4 +1,3 @@
-<!-- For more projects: Visit codeastro.com  -->
 <?php
    
 session_start();
@@ -155,4 +154,4 @@ function backup_tables($host,$user,$pass,$name,$tables = '*')
  // header("Content-Type: application/xls");
  // header("Content-Disposition: attachment; filename=backup\stock($date).xls");
  //  echo "</table>";
-?> --><!-- For more projects: Visit codeastro.com  -->
+?>
